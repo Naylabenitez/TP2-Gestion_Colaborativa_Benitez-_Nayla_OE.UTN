@@ -2,7 +2,7 @@
 Repositorio creado por Benitez Nayla inicialmente para adjuntar el trabajo práctico solicitado por la facultad, y crear el repositorio en respuesta ese TP.
 ## Integrantes
 - Nay Benitez
-(Es un trabajo individual)
+(Es un trabajo individual, pero de igual manera se cumplen los tres roles de trabajo solicitados en el TP, simulando una célula de desarrollo activa)
 ## Escenario elegido
 Escenario B - Análisis de Ventas de una Pequeña Empresa
 
