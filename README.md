@@ -2,6 +2,7 @@
 Repositorio creado por Benitez Nayla inicialmente para adjuntar el trabajo práctico solicitado por la facultad, y crear el repositorio en respuesta ese TP.
 ## Integrantes
 - Nay Benitez
+(Es un trabajo individual)
 ## Escenario elegido
 Escenario B - Análisis de Ventas de una Pequeña Empresa
 
